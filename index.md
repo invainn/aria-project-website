@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://imgur.com/download/loLunYS"
+feature_image: "https://imgur.com/download/LMy6uuA"
 feature_text: |
   ## ARIA
   ### Administration, Registration, and Information Assistant
