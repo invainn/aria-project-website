@@ -16,3 +16,16 @@ The Northern Nevada Music Teachers Association (NNMTA) is an organization compri
 While the NNMTA is enthralled that an expanding number of students are electing to participate in their competitions, the music organization has been experiencing difficulty in accommodating the already abundant body of competitors. To elaborate, every component of their competition format is facilitated through the use of paper, a method prone to several mistakes which can be difficult to alleviate. Unfortunately, the current state of the NNMTA’s website provides little support for mitigating the organizational problems associated with their music competitions.
 
 The main goal of ARIA (Administration, Registration, and Information Assistant) is to replace the NNMTA’s website such that the registration, management, and operation of their music competitions can operate in a more efficient and streamlined manner. For example, ARIA will allow competitors to register online, make registration payments, and select a time for their competition. Additionally, ARIA will automate scheduling opportunities to reduce conflicts imposed by paper registration, allow the festival chairman to print out all documents associated with competitions, and even calculate statistics information based on each competition.
+
+# Advisors and Instructors
+
+### Advisor
+* Dr. Frederick C. Harris, Jr. - CSE Department
+
+### Instructors 
+* Dr. Sergiu Dascalu - CSE Department
+* Devrin Lee 
+
+# Problem Domain Book
+* Full Stack Development - https://www.fullstackreact.com/
+* Events Management - https://books.google.com/books/about/Events_Management.html?id=fQ1uLar0G-sC
