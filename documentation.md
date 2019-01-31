@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://imgur.com/download/9CHyUSI"
+feature_image: "https://imgur.com/download/eJdyMWo"
 feature_text: |
   ## Documentation 
 ---
