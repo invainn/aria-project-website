@@ -1,11 +1,12 @@
 ---
-title: About ARIA
 layout: page
 feature_image: "https://imgur.com/download/loLunYS"
 feature_text: |
   ## ARIA
   ### Administration, Registration, and Information Assistant
 ---
+
+# About ARIA
 
 The Northern Nevada Music Teachers Association (NNMTA) is an organization comprised of students and teachers who share a common interest in music. The NNMTA provides opportunities for aspiring musicians and music aficionados by holding competitions, festivals, networking events, and other music-related functions. Despite the diverse array of events held by the NNMTA, music competitions are their most prominent affair (with enrollment/participation growing).
 
