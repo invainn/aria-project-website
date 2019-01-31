@@ -19,12 +19,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://gishi.tech'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'ARIA'
+description: 'Administration, Registration, and Information Assistant'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://imgur.com/a/UyKc4rh"
 
 # Pagination
 paginate: 5
@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 navigation_header:
   Home: /
   About: /about/
-  Blog: /blog/
+  Contact Us: /contact/
 
 # Footer nav
 navigation_footer:
