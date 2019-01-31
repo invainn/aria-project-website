@@ -40,7 +40,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+  Return to Home: "#top"
 
 # Collections
 collections:
