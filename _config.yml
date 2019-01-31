@@ -24,7 +24,7 @@ baseurl: ''
 title: 'ARIA'
 description: 'Administration, Registration, and Information Assistant'
 permalink: pretty
-logo: "https://imgur.com/a/UyKc4rh"
+logo: "https://imgur.com/download/0Vg5Vkv"
 
 # Pagination
 paginate: 5
@@ -33,7 +33,6 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  About: /about/
   Contact Us: /contact/
 
 # Footer nav
