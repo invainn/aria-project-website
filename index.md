@@ -4,6 +4,9 @@ feature_image: "https://imgur.com/download/loLunYS"
 feature_text: |
   ## ARIA
   ### Administration, Registration, and Information Assistant
+  ### CS 426 Senior Project in Computer Science
+  ### Spring 2019
+  ### University of Nevada, Reno, CSE
 ---
 
 <h1>About ARIA</h1>
