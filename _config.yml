@@ -33,15 +33,9 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  Development Workflow: /
-  Running the Application: /
   Project Video: /
-  Documentation: /
-  Source Code: /
-  Project-Related Resources: /
-  Team Members: /
-  Instructors: /
-  Advisors: /
+  Documentation: /documentation
+  Source Code: https://github.com/invainn/ARIA
   Contact Us: /contact/
 
 # Footer nav
