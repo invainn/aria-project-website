@@ -18,15 +18,6 @@ While the NNMTA is enthralled that an expanding number of students are electing 
 
 The main goal of ARIA (Administration, Registration, and Information Assistant) is to replace the NNMTA’s website such that the registration, management, and operation of their music competitions can operate in a more efficient and streamlined manner. For example, ARIA will allow competitors to register online, make registration payments, and select a time for their competition. Additionally, ARIA will automate scheduling opportunities to reduce conflicts imposed by paper registration, allow the festival chairman to print out all documents associated with competitions, and even calculate statistics information based on each competition.
 
-# Advisors and Instructors
-
-### Advisor
-* Dr. Frederick C. Harris, Jr. - CSE Department
-
-### Instructors 
-* Dr. Sergiu Dascalu - CSE Department
-* Devrin Lee 
-
 # Project Related Resources 
 * Full Stack Development: [https://www.fullstackreact.com/]()
 * Event Management (Problem Domain Book): A Professional & Development Approach First Edition
