@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://www.bhphotovideo.com/images/images500x500/Savage_40_1253_Widetone_Seamless_Background_Paper_486214.jpg"
+feature_image: "https://storage.needpix.com/thumbs/gold-background-1495823931axH.jpg"
 feature_text: |
   ## ARIA
   ### Administration, Registration, and Information Assistant
