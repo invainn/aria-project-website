@@ -29,7 +29,8 @@ The main goal of ARIA (Administration, Registration, and Information Assistant) 
 
 # Project Related Resources 
 * Full Stack Development: [https://www.fullstackreact.com/]()
-* Events Management: [https://books.google.com/books/about/Events_Management.html?id=fQ1uLar0G-sC]()
+*Event Management (Problem Domain Book): A Professional & Development Approach First Edition
+by Ashutosh (Author), Dr. Chaturvedi (Author)
 * Docker: [https://www.docker.com/]()
 * Kubernetes: [https://kubernetes.io/]()
 * React.js: [https://reactjs.org/]()

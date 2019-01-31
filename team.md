@@ -3,7 +3,7 @@ layout: page
 title: Team Members 
 ---
 
-# Team Members - Team 1
+## Team 1
 
 #### Anthony Bennett
 * Email - anthonybennett@nevada.unr.edu 
