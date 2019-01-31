@@ -33,7 +33,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  Project Video: /
+  Project Video: /projectvideo
   Documentation: /documentation
   Source Code: https://github.com/invainn/ARIA
   Team Members: /team/

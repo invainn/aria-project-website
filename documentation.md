@@ -1,8 +1,6 @@
 ---
+title: Documentation
 layout: page
-feature_image: "https://storage.needpix.com/thumbs/gold-background-1495823931axH.jpg"
-feature_text: |
-  ## Documentation 
 ---
 
 <h2 style="text-decoration: underline">Part I. Proposal/Concept</h2>
