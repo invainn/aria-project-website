@@ -1,5 +1,5 @@
 ---
-title: Advisors and Instructors
+title: Advisors & Instructors
 layout: page
 ---
 
