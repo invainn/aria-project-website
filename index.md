@@ -28,31 +28,17 @@ The main goal of ARIA (Administration, Registration, and Information Assistant) 
 * Devrin Lee 
 
 # Project Related Resources 
-* Full Stack Development: [https://www.fullstackreact.com/]
-* Events Management: [https://books.google.com/books/about/Events_Management.html?id=fQ1uLar0G-sC]
-* Docker: [https://www.docker.com/]
-* Kubernetes: [https://kubernetes.io/]
-* React.js: [https://reactjs.org/]
-* Node.js: [https://nodejs.org/]
-* Redux: [https://redux.js.org/]
-* Redux Thunk: [https://github.com/reduxjs/redux-thunk]
-* Material UI: [https://material-ui.com/]
-* Express: [https://expressjs.com/]
-* Axios: [https://github.com/axios/]
-* Jest: [https://jestjs.io/]
-* ESLint: [https://eslint.org/]
-* PostgreSQL: [https://www.postgresql.org/]
-
-# Team Members - Team 1
-
-#### Anthony Bennett
-* Email - anthonybennett@nevada.unr.edu 
-* Github - [https://github.com/invainn/]
-
-#### Nikkolas Irwin 
-* Email - nikkolasjirwin@nevada.unr.edu 
-* Github - [https://github.com/irwin-nikk/]
-
-#### Kevin Carlos 
-* Email - Kevin_Carlos@nevada.unr.edu
-* Github - [https://github.com/Kevin-Carlos/]
+* Full Stack Development: [https://www.fullstackreact.com/]()
+* Events Management: [https://books.google.com/books/about/Events_Management.html?id=fQ1uLar0G-sC]()
+* Docker: [https://www.docker.com/]()
+* Kubernetes: [https://kubernetes.io/]()
+* React.js: [https://reactjs.org/]()
+* Node.js: [https://nodejs.org/]()
+* Redux: [https://redux.js.org/]()
+* Redux Thunk: [https://github.com/reduxjs/redux-thunk]()
+* Material UI: [https://material-ui.com/]()
+* Express: [https://expressjs.com/]()
+* Axios: [https://github.com/axios/]()
+* Jest: [https://jestjs.io/]()
+* ESLint: [https://eslint.org/]()
+* PostgreSQL: [https://www.postgresql.org/]()
